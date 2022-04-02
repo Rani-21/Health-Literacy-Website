@@ -1,0 +1,447 @@
+@media only screen and (max-width: 1326px) {
+    .nav-list li{
+        padding: 19px 13px;
+    }
+    .nav-list li a {
+        font-size: 16px;
+    }
+    .firstSection{
+        height: 161vh;
+    }
+    .text-big{
+        font-size: 35px;
+    }
+    .text-small{
+        font-size: 15px;
+    }
+    #search{
+        font-size: 11px;
+    }
+    .btn-sm{
+        font-size: 12px;
+    padding: 5px 10px;
+    }
+    .section-Left{
+        height: 379px;
+    }
+    .secLast {
+        height: 614px;
+    }
+.thumbnail3 img {
+    height: 237px;
+    width: 95%;
+}
+.secGuide{
+        height: 190vh;
+}
+.sectionTag{
+    font-size: 28px;
+}
+.sectionSubTag{
+  font-size: 14px;
+}
+.card-2 li {
+    font-size: 14px;
+}
+.thumbnail4 {
+    margin-right: 366px;
+}
+.thumbnail4 img {
+    height: 214px;
+    width: 62%;
+}
+.secPrevent{
+    height: 262vh;
+}
+.para3{
+    margin-top: -3px;
+}
+.para4{
+
+    margin-top: 50px;
+}
+.v-link1{
+    margin-top: 12px;
+}
+.secFungus{
+    height: 95vh;
+    margin: 16px 12px;
+}
+.para5 {
+    padding: 4px 9px;
+    font-size: 20px;
+}
+.para6{
+    padding: 6px 13px;
+    font-size: 14px;
+}
+.f-link a{
+    font-size: 13px;
+}
+.FactsMyths{
+     height: 153vh;
+}
+.contact {
+    margin-top:70px;
+    height: 597px;
+}
+.text-advance{
+    font-size: 30px;
+}
+.form {
+    width: 760px;
+    margin: 22px auto;
+}
+.form-input {
+    width: 95%;
+    font-size: 16px;
+}
+.page-content{
+    font-size: 12px;
+  }
+}
+
+
+   
+    
+@media only screen and (max-width:1100px){
+    .secIntro{
+        height: 247px;
+    }
+    .thumbnail img {
+        height: 220px;
+        width: 350px;
+    }
+    .section-Left {
+        height: 344px;
+    }
+    .thumbnail2 img {
+        height: 220px;
+        width: 484px;
+    }
+    .secLast {
+        height: 550px;
+    }
+    .secLast li{
+        font-size: 18px;
+    }
+    .secLast a{
+        font-size: 11px;
+    }
+    .text-big{
+        font-size: 30px;
+    }
+    .text-small{
+        font-size: 13px;
+    }
+    .secGuide{
+        height: 180vh;
+    }
+    .heading p {
+        font-size: 30px;
+    }
+    .sectionTag{
+        font-size: 26px;
+    }
+    .card-2 li {
+        font-size: 13px;
+    }
+    .thumbnail4 {
+        margin-right: 320px;
+    }
+    .card-3 {
+        margin-top: 342px;
+    }
+    .thumbnail5 img{
+        height: 120px;
+    }
+    .secPrevent figcaption{
+        font-size: 13px;
+    }
+    .thumbnail6 img{
+        height: 124px;
+    }
+    .card-4 {
+        margin-bottom: 389px;
+    }
+    .secFungus {
+        height: 165vh;
+    }
+   .FactsMyths{
+       margin-top: 25px;
+   }
+    
+}
+@media only screen and (max-width: 1099px){
+    
+    .card-3 {
+        margin-top: 551px;
+    }
+    .secFungus {
+        margin-top: 84px;
+    }
+}
+
+
+@media only screen and (max-width: 900px){
+   
+    .navbar{
+        height: 478px;
+        flex-direction: column;
+        transition: all 0.6s ease-out;
+    }
+    .nav-list{
+        flex-direction: column;
+    }
+    #search{
+        width: 100%;
+    }
+    .rightNav{
+        text-align: center;
+    }
+    .burger{
+        display: block;
+    }
+    .h-nav-resp{
+        height: 72px;
+    }
+    .v-class-resp{
+        visibility: hidden;
+    }
+    .section{
+        flex-direction: column-reverse;
+    }
+    .firstSection {
+        height: 100vh;
+    }
+    .secIntro{
+        margin-top: 65px;
+        margin-bottom: 100px;
+    }
+    .thumbnail img {
+        height: 159px;
+        width: 284px;
+    }
+    .section-Left {
+        margin-bottom: 100px;
+    }
+    
+.secLast {
+    height: 681px;
+}
+    .thumbnail3{
+        width: 57%;
+        margin: auto;
+    }
+    .thumbnail3 img{
+        width: 100%;
+    }
+    .secLast li {
+        text-align: center;
+    }
+    .secGuide{
+        flex-direction: column;
+    }
+    .heading {
+        width: 95%;
+    }
+    .thumbnail4 {
+        margin-right: 244px;
+    }
+    .secPrevent{
+        width: 100%;
+    }
+    .para3 p {
+        font-size: 26px;
+    }
+    .card-3{
+        
+        margin-top: 500px;
+    }
+    
+    .thumbnail5 img {
+        height: 98px;
+    } 
+    .secPrevent figcaption {
+        font-size: 11px;
+    }
+    .thumbnail6 img {
+        height: 98px;
+    }
+    .para4 p {
+        font-size: 26px;
+    }
+    .v-link a{
+        font-size: 9px;
+    }
+    .secFungus{
+        flex-direction: column;
+    }
+    .sectionTag {
+        font-size: 26px;
+    }
+    .fungi p {
+        font-size: 26px;
+    }
+    .FactsMyths {
+        margin: 300px 0px;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .pages{
+        width: 85%;
+    }
+    #page-h {
+        width: 55%;
+        font-size: 25px;
+        height: 200px;
+    }
+      .text-big{
+          font-size: 23px;
+          text-align: center;
+      }
+      .text-small{
+          font-size: 13px;
+          text-align: justify;
+      }
+    
+}
+ @media only screen and (max-width: 896px){
+    .secLast {
+        height: 750px;
+    }
+    .thumbnail4 {
+        margin-right: 204px;
+    }
+    .card-3 {
+        margin-top: 860px;
+        height: 100%;
+    }
+    .thumbnail5{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr ;
+        /* flex-direction: column; */
+    }
+    .thumbnail5 img{
+        height: 140px;
+     max-width: 90%;
+     
+    }
+    .secFungus{
+        margin-top: 450px;
+    }
+ }
+ @media only screen and (max-width: 746px){
+    .thumbnail4 {
+        margin-right: 125px;
+    }
+    .thumbnail6 img{
+        width: 18%;
+    }
+    .secFungus{
+        margin-top: 500px;
+        height: 190vh;
+    }
+    .FactsMyths{
+        margin-top: 400px;
+    }
+     .form{
+         max-width: 500px ;
+     }
+     .text-big{
+        font-size: 20px;
+        text-align: center;
+    }
+    .text-small{
+        font-size: 12px;
+        text-align: justify;
+    }
+    .sectionTag{
+       font-size: 24px;
+    }
+    .sectionSubTag{
+        font-size: 13px;
+    }
+    .card-2 li {
+        font-size: 12px;
+    }
+    .card a {
+        font-size: 10px;
+    }
+    .secGuide {
+        height: 189vh;
+    }
+ }
+ @media only screen and (max-width: 646px){
+   
+    .secLast {
+        margin-top: 50px;
+        height: 950px;
+    } 
+    .secGuide{
+        height: 190vh;
+    }
+    .thumbnail4 {
+        margin-right: 125px;
+    }
+    .thumbnail4 img{
+        width: 100%;
+    }
+     .heading{
+         width: 89%;
+         padding: 9px;
+     }
+     .para3{
+         padding: 5px 3px;
+     }
+     .secPrevent figcaption{
+
+         margin: 0px 27px;
+     }
+     .para4{
+        padding: 5px 3px;
+     }
+
+ }
+ @media only screen and (max-width: 577px){
+     
+     .section-Left {
+        margin-bottom: 30px;
+    }
+     
+     .SecondLast {
+        display: flex;
+        flex-direction: column;
+    }
+    .thumbnail5{
+        margin: auto;
+    }
+    .thumbnail5 img{
+        height: 102px;
+    }
+    .card-3{
+        margin-top: 1140px;
+    }
+    .para1{
+
+        width: 96%
+    }
+    .thumbnail6{
+        display: flex;
+        flex-direction: column;
+    }
+    .v-link a{
+        
+        font-size: 8px;
+        animation: none;
+    }
+    .card-4 {
+        margin-bottom: 700px;
+    }
+    .text-footer{
+        font-size: 14px;
+    }
+ }
+
+
